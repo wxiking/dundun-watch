@@ -86,7 +86,7 @@
 
 > 不设置 `ADMIN_PASSWORD` 则使用默认密码：`admin123456`
 
-> 不设置 `ADMIN_PATH` 则使用默认地址：`/admin`
+> 不设置 `ADMIN_PATH` 则使用默认地址：`admin`
 
 ### 第四步：运行部署
 
