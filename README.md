@@ -142,7 +142,7 @@
 </details>
 
 <details>
-<summary><b>忘记登录地址？</b></summary>
+<summary><b>忘记登录密码？</b></summary>
 
 **方式一：直接修改（推荐，立即生效）**
 
